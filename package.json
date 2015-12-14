@@ -1,6 +1,6 @@
 {
   "name": "nedb-model",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Implement your own models for nedb",
   "main": "lib/index.js",
   "scripts": {
